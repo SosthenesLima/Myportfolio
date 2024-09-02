@@ -5,7 +5,7 @@ import "./globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: 'Sósthenes O. Lima 2025',
+  title: 'Sósthenes O. Lima',
   description: 'Sósthenes O. Lima is a software engineer...',
 };
 
